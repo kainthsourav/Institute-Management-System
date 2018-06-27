@@ -1,0 +1,32 @@
+SMAP
+viva_jsp.java
+JSP
+*S JSP
+*F
++ 0 viva.jsp
+viva.jsp
++ 1 db.jsp
+db.jsp
++ 2 header.jsp
+header.jsp
++ 3 css.jsp
+css.jsp
++ 4 footer.jsp
+footer.jsp
++ 5 java.jsp
+java.jsp
+*L
+5,2:54
+2#1,7:57
+8:64
+7#0,12:65
+1#2,136:76
+18#0,26:212
+46,59:241
+104,6:300
+1#3,23:306
+1#4,23:328
+109#0,2:350
+1#5,23:352
+110#0,11:375
+*E
